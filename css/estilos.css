@@ -1,0 +1,31 @@
+body {background: url(../images/fondo.jpg);
+
+}
+
+h1 {color:white; 
+    font-family: Arial; 
+    font-size:xx-large; 
+    text-align: center; 
+    background-color:grey;
+
+}
+
+img {align-items: center; 
+    border: 10px solid; 
+    border-color: black;
+    border-radius: 1em;
+    display: block;
+
+}
+
+ul {height: 100px; 
+    word-spacing: 5px; 
+    text-align: center;
+
+}
+
+li {display: inline;
+    border: 1px solid black;
+
+}
+}
